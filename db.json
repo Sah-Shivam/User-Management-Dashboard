@@ -1,0 +1,284 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aisha Sharma",
+      "email": "aisha@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=11",
+      "status": "active",
+      "createdAt": "2025-11-04T17:37:12.349430Z"
+    },
+    {
+      "id": 2,
+      "name": "Rohit Verma",
+      "email": "rohit@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "status": "active",
+      "createdAt": "2025-11-16T17:37:12.349430Z"
+    },
+    {
+      "id": 3,
+      "name": "Sneha Gupta",
+      "email": "sneha@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=13",
+      "status": "inactive",
+      "createdAt": "2025-11-05T17:37:12.349430Z"
+    },
+    {
+      "id": 4,
+      "name": "Karan Singh",
+      "email": "karan@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=14",
+      "status": "inactive",
+      "createdAt": "2025-11-22T17:37:12.349430Z"
+    },
+    {
+      "id": 5,
+      "name": "Priya Patel",
+      "email": "priya@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=15",
+      "status": "active",
+      "createdAt": "2025-11-08T17:37:12.349430Z"
+    },
+    {
+      "id": 6,
+      "name": "Leni dozn",
+      "email": "anil@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=16",
+      "status": "active",
+      "createdAt": "2025-11-20T17:37:12.349430Z"
+    },
+    {
+      "id": 7,
+      "name": "Meera Joshi",
+      "email": "meera@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=17",
+      "status": "inactive",
+      "createdAt": "2025-10-29T17:37:12.349430Z"
+    },
+    {
+      "id": 8,
+      "name": "Vikram Rao",
+      "email": "vikram@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=18",
+      "status": "inactive",
+      "createdAt": "2025-11-03T17:37:12.349430Z"
+    },
+    {
+      "id": 9,
+      "name": "Sonal Desai",
+      "email": "sonal@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=19",
+      "status": "inactive",
+      "createdAt": "2025-11-19T17:37:12.349430Z"
+    },
+    {
+      "id": 10,
+      "name": "Amit Kumar",
+      "email": "amit@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=20",
+      "status": "active",
+      "createdAt": "2025-11-11T17:37:12.349430Z"
+    },
+    {
+      "id": 11,
+      "name": "Neha Reddy",
+      "email": "neha@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=21",
+      "status": "active",
+      "createdAt": "2025-11-13T17:37:12.349430Z"
+    },
+    {
+      "id": 12,
+      "name": "Siddharth Nair",
+      "email": "siddharth@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=22",
+      "status": "inactive",
+      "createdAt": "2025-11-02T17:37:12.349430Z"
+    },
+    {
+      "id": 13,
+      "name": "Rhea Nandi",
+      "email": "rhea@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=23",
+      "status": "inactive",
+      "createdAt": "2025-11-11T17:37:12.349430Z"
+    },
+    {
+      "id": 14,
+      "name": "Tarun Bhatia",
+      "email": "tarun@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=24",
+      "status": "active",
+      "createdAt": "2025-11-01T17:37:12.349430Z"
+    },
+    {
+      "id": 15,
+      "name": "Pooja Mehta",
+      "email": "pooja@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=25",
+      "status": "inactive",
+      "createdAt": "2025-11-22T17:37:12.349430Z"
+    },
+    {
+      "id": 16,
+      "name": "Arjun Malhotra",
+      "email": "arjun@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=26",
+      "status": "active",
+      "createdAt": "2025-11-25T10:15:22.123456Z"
+    },
+    {
+      "id": 17,
+      "name": "Divya Iyer",
+      "email": "divya@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=27",
+      "status": "active",
+      "createdAt": "2025-11-20T08:42:10.987654Z"
+    },
+    {
+      "id": 18,
+      "name": "Rahul Khanna",
+      "email": "rahul@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=28",
+      "status": "inactive",
+      "createdAt": "2025-10-30T14:20:33.555444Z"
+    },
+    {
+      "id": 19,
+      "name": "Shreya Bose",
+      "email": "shreya@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=29",
+      "status": "active",
+      "createdAt": "2025-11-18T09:11:45.111222Z"
+    },
+    {
+      "id": 20,
+      "name": "Vivek Yadav",
+      "email": "vivek@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=30",
+      "status": "inactive",
+      "createdAt": "2025-11-12T16:55:01.333444Z"
+    },
+    {
+      "id": 21,
+      "name": "Ananya Chatterjee",
+      "email": "ananya@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=31",
+      "status": "active",
+      "createdAt": "2025-11-26T12:03:17.888999Z"
+    },
+    {
+      "id": 22,
+      "name": "Sameer Ahmed",
+      "email": "sameer@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=32",
+      "status": "active",
+      "createdAt": "2025-11-23T07:29:44.222333Z"
+    },
+    {
+      "id": 23,
+      "name": "Kavya Menon",
+      "email": "kavya@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=33",
+      "status": "inactive",
+      "createdAt": "2025-11-10T19:47:55.666777Z"
+    },
+    {
+      "id": 24,
+      "name": "Nikhil Thakur",
+      "email": "nikhil@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=34",
+      "status": "active",
+      "createdAt": "2025-11-27T11:11:11.000111Z"
+    },
+    {
+      "id": 25,
+      "name": "Tanya Singhania",
+      "email": "tanya@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=35",
+      "status": "inactive",
+      "createdAt": "2025-11-05T13:22:40.555666Z"
+    },
+    {
+      "id": 26,
+      "name": "Aditya Rao",
+      "email": "aditya@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=36",
+      "status": "active",
+      "createdAt": "2025-11-28T06:30:15.777888Z"
+    },
+    {
+      "id": 27,
+      "name": "Riya Kapoor",
+      "email": "riya@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=37",
+      "status": "active",
+      "createdAt": "2025-11-21T15:44:22.999000Z"
+    },
+    {
+      "id": 28,
+      "name": "Pranav Desai",
+      "email": "pranav@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=38",
+      "status": "inactive",
+      "createdAt": "2025-11-01T20:10:05.123123Z"
+    },
+    {
+      "id": 29,
+      "name": "Ishaan Mehra",
+      "email": "ishaan@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=39",
+      "status": "active",
+      "createdAt": "2025-11-24T09:35:50.456456Z"
+    },
+    {
+      "id": 30,
+      "name": "Sanya Pillai",
+      "email": "sanya@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=40",
+      "status": "active",
+      "createdAt": "2025-11-19T17:18:33.789789Z"
+    },
+    {
+      "id": 31,
+      "name": "Yashvardhan Roy",
+      "email": "yash@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=41",
+      "status": "inactive",
+      "createdAt": "2025-11-07T14:50:12.101101Z"
+    },
+    {
+      "id": 32,
+      "name": "Zara Khan",
+      "email": "zara@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=42",
+      "status": "active",
+      "createdAt": "2025-11-28T08:08:08.888888Z"
+    },
+    {
+      "id": 33,
+      "name": "Aarav Jain",
+      "email": "aarav@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=43",
+      "status": "active",
+      "createdAt": "2025-11-17T11:22:33.444555Z"
+    },
+    {
+      "id": 34,
+      "name": "Myra Saxena",
+      "email": "myra@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=44",
+      "status": "inactive",
+      "createdAt": "2025-11-09T22:15:45.666777Z"
+    },
+    {
+      "id": 35,
+      "name": "kimel",
+      "email": "kabir@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=45",
+      "status": "inactive",
+      "createdAt": "2025-11-28T14:20:00.222333Z"
+    }
+  ]
+}
