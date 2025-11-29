@@ -11,8 +11,6 @@ Includes features like user listing, filtering, sorting, profile details, Pagina
 
 ✏️ Edit User Modal (name + status)
 
-🌙 Dark Mode with localStorage persistence
-
 📊 Analytics Page (Signup Trend + Status Pie Chart)
 
 ⚡ React Query for caching & async state
